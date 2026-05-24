@@ -133,5 +133,5 @@ reducao-custos-farmacias-aws/
 ---
 
 <p align="center">
-  Feito com ❤️ para o bootcamp <strong>DIO + Totvs</strong>
+  Feito como desafio para o bootcamp TOTVS - Fundamentos de Engenharia de Dados e Machine Learning <strong>DIO + Totvs</strong>
 </p>
